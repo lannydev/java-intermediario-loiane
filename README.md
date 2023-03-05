@@ -32,10 +32,11 @@
 
 - `Constantes`: Para declarar constantes devemos usar o modificador final para declarar o atributo como constante.
 - `Enuns`: 
-   - Enuns extends a classe java.lang.Enum
-   - Podem ser comparada usando ==
-   - Não podem ser instanciadas com a palavra new
-   - Podem implementar interfaces
-   - Pode ser declarado separadamente ou dentro de classe.
+   - Enuns extends a classe java.lang.Enum;
+   - Podem ser comparada usando ==;
+   - Não podem ser instanciadas com a palavra new;
+   - Podem implementar interfaces;
+   - Pode ser declarado separadamente ou dentro de classe;
+   - Podem ter métodos abstratos, podendo ser atravém de uma interface ou declarar o metodo abstrato dentro do próprio enum.
   
 
