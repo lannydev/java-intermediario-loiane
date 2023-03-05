@@ -15,6 +15,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Resumo das Aulas](#resumo-das-aulas)
 
 
 # Descrição do Projeto
@@ -25,4 +26,16 @@
 
 # Tecnologias Utilizadas
   Java
+  
+# Resumo das Aulas
+# :hammer: A partir da aula 53
+
+- `Constantes`: Para declarar constantes devemos usar o modificador final para declarar o atributo como constante.
+- `Enuns`: 
+   - Enuns extends a classe java.lang.Enum
+   - Podem ser comparada usando ==
+   - Não podem ser instanciadas com a palavra new
+   - Podem implementar interfaces
+   - Pode ser declarado separadamente ou dentro de classe.
+  
 
